@@ -871,13 +871,13 @@
         </ConveyorTransition>
     </Objects>
     <Foods>
-        <Pizza>Пиццп</Pizza>
+        <Pizza>Пицца</Pizza>
         <Sushi>Суши</Sushi>
         <AvacadoonToast>Тост с авокадо</AvacadoonToast>
         <Crisps>Чипсы</Crisps>
-        <Donut>Орехи</Donut>
+        <Donut>Пончики</Donut>
         <Coffee>Кофе</Coffee>
-        <Lemonade>Лемонад</Lemonade>
+        <Lemonade>Лимонад</Lemonade>
         <Coke>Кола</Coke>
     </Foods>
     <Products>
